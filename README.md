@@ -7,7 +7,7 @@
 
 Schizophrenia is increasingly conceptualized as a disorder of large-scale brain network dysconnectivity rather than isolated regional dysfunction.
 
-**This project asks:**
+**This project follows the pipeline in Arbabshirani et al.(2013) and asks:**
 
 > Can alterations in functional network connectivity (FNC) distinguish schizophrenia patients from healthy controls?
 
