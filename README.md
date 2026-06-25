@@ -122,8 +122,11 @@ Indicating that network-level connectivity features carry predictive information
 - Dynamic functional connectivity (dFNC)  
 - Graph theoretical analysis  
 - Multimodal fusion (sMRI + fMRI)  
-- Application to other psychiatric disorders  
+- Application to other psychiatric disorders
+---
+## Directions
 
+See SZ-project for code and Project Write-UP for detailed summary and discussion and images
 ---
 ## Citation
 Arbabshirani, M. R., Kiehl, K. A., Pearlson, G. D., & Calhoun, V. D. (2013). Classification of schizophrenia patients based on resting-state functional network connectivity. Frontiers in Neuroscience, 7, Article 133. https://doi.org/10.3389/fnins.2013.00133
