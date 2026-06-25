@@ -13,6 +13,14 @@ Schizophrenia is increasingly conceptualized as a disorder of large-scale brain 
 
 ---
 
+## Key Insight of This Project
+
+Across 45 functional network connections, only one survived FDR correction:
+
+> **Default Mode Network (DMN) – Somatomotor connectivity is significantly reduced in schizophrenia**
+
+This suggests that schizophrenia may involve disrupted coordination between internally generated mental processes and externally driven sensorimotor systems.
+
 ## Dataset
 
 - COBRE resting-state fMRI dataset  
